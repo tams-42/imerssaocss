@@ -1,0 +1,42 @@
+body {
+  
+    background-image: url('https://cdn.pixabay.com/photo/2019/06/18/15/14/mandala-4282571_1280.jpg');
+
+    background-size: auto 120vh;
+    
+    font-family: courier;
+  }
+  .menu {
+    
+    background: white;
+  
+  }
+  a {
+    text-decoration: none;
+    
+    color: darkcyan;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .site-title{
+    
+    color: silver;
+    
+    text-align: center;
+    
+    text-shadow: 4px 9px paleturquoise, 2px 11px black, 8px 18px cyan, 9px 22px black;
+  }
+  
+  
